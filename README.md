@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋,
+Welcome to my GitHub!
+Here you'll find projects I've worked on using SQL and Python for Data Analysis
+Thanks for viewing ⚡
+
+
 
 <!--
 **janetoderinde/janetoderinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

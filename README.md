@@ -1,7 +1,7 @@
 ## Hi there 👋,
 Welcome to my GitHub!
-Here you'll find projects I've worked on using SQL and Python for Data Analysis
-Thanks for viewing ⚡
+Here you'll find projects I've worked on using SQL and Python for Data Analysis.
+Thanks for viewing. ⚡
 
 
 
